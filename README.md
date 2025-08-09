@@ -1,4 +1,4 @@
-Vitrine Inteligente
+# **Vitrine Inteligente**
 ===================
 
 Projeto acadêmico - controle automático de iluminação de vitrine + monitoramento de temperatura
@@ -21,7 +21,9 @@ Instalação:
 Segurança:
  - Se for comutar tensão de rede (mains), consulte um eletricista e use relé e caixa adequados.
  - Mantenha GND comum entre módulos.
-Esquema Elétrico
+
+
+# **Esquema Elétrico**
 Componentes utilizados:
 
 1× Arduino Uno R3
